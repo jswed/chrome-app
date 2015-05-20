@@ -96,3 +96,7 @@ Other things
 - Chrome Apps for Mobile (MCA)
 - IDE: Chrome Dev Editor (https://github.com/GoogleChrome/chromedeveditor)
 - [nw.js support chorme.* APIs since 0.13.0-alpha0](https://groups.google.com/forum/#!msg/nwjs-general/IqfH1RXNGlw/2PgeRGHO-B4J)
+
+---
+
+You can find everything [here](http://github.com/jswed/chrome-app)
