@@ -21,6 +21,9 @@ Advantages from Chrome Platform APIs
 
 --
 - rich APIs: https://developer.chrome.com/apps/api_index
+  - Storage API is great (SYNC!)
+  - USB, bluetooth, serial...
+  - low-level network ops (TCP, UDP)
 
 --
 - benefit from lifecycle events
@@ -59,7 +62,7 @@ Tips & Traps
 =====
 
 --
-- [csp](https://developer.chrome.com/extensions/contentSecurityPolicy) 
+- Content Security Policy ([csp](https://developer.chrome.com/extensions/contentSecurityPolicy)) 
   - default: `script-src 'self'; object-src 'self'`
 
 --
