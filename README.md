@@ -11,5 +11,5 @@ Example Apps
 -----------
 
 - load them in your chrome extension panel
-- luanch
+- launch it
 
