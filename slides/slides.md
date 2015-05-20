@@ -102,4 +102,7 @@ Other things
 
 ---
 
+class: center, middle
+
 You can find everything [here](http://github.com/jswed/chrome-app)
+----------------------
